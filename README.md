@@ -10,6 +10,6 @@ Constructing a PPIK network,
 
 3) Generating a feature matrix from the output of second step. Overall code is available as <strong>read_SubMatch_output.java</strong>.
 
-4) Also <strong>final representations</strong> (i.e., Metagraph representations), node/protein ids, test indices, i.e., all necessary files are provided to generate the final representations. 
+4) Also <strong>final representations</strong> (Metagraph representations), node/protein ids, test indices, i.e., all necessary files are provided to generate the final representations as well as the final representations. 
 
 5) Feature selection and oversampling codes are also available to be performed on final representations
